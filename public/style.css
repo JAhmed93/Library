@@ -1,0 +1,19 @@
+.card {
+  width: 20rem !important;
+  height: 15rem !important;
+}
+
+.card-body h5{
+  font-size: 1.2rem;
+  
+}
+
+body {
+  background-image: url('lib.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  
+}
+
